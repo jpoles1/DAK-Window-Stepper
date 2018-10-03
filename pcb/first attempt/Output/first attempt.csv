@@ -1,0 +1,6 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J1";"BarrelJack_Horizontal";1;"Barrel_Jack";;;
+2;"U1";"D1_mini_board";1;"WeMos_mini";;;
+3;"A1";"Pololu_Breakout-16_15.2x20.3mm";1;"Pololu_Breakout_A4988";;;
+4;"C1";"CP_Radial_D12.5mm_P5.00mm";1;"CP1";;;
+5;"J2";"PinHeader_1x04_P2.54mm_Vertical";1;"Conn_01x04_Male";;;
